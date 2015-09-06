@@ -1,0 +1,111 @@
+core:
+  account: Profilo
+  activity: Attività
+  administration: Ammnistrazione
+  alert: Alert
+  all_discussions: Tutte le discussioni
+  before_log_in_link: Hai già un profilo?
+  before_sign_up_link: Non hai un profilo?
+  bio_placeholder: Scrivi qualcosa su di te
+  cannot_reply: Non puoi rispondere
+  cannot_reply_help: Non hai il permesso per rispondere a questa discussione.
+  change_email: Cambia Email
+  change_password: Cambia Password
+  change_password_help: Clicca il pulsante di seguito e controlla la tua email per il link per cambiare la password.
+  close: Chiudi
+  confirm_delete_discussion: Sei sicuro di voler cancellare questa discussione?
+  confirm_discard_discussion: Non hai inserito nessuna discussione. Vuoi abbandonare?
+  confirm_discard_edit: Non hai salvato i cambiamenti. Vuoi abbandonare?
+  confirm_discard_reply: Non hai inserito la nessuan risposota. Vuoi abbandonare?
+  confirmation_email_sent: "Ti abbiamo inviato un email di conferma a {email}. Se non dovessi ricerverla in breve tempo, controlla anche la cartella Spam."
+  controls: Controlli
+  delete: Elimina
+  delete_forever: Elimina per sempre
+  deleted: "[eliminato]"
+  disclose_online: Permetti agli altri utenti di vedere quando sono online
+  discussion_renamed_post: "{username} ha cambiato il titolo da {old} a {new}."
+  discussion_renamed_notification: "{username} cambiato il titolo"
+  discussion_replied: "Ultima risposta {ago} di {username}"
+  discussion_started: "Iniziato {ago} da {username}"
+  discussion_title: Titolo discussione
+  discussions: Discussioni
+  dismiss: Scartare
+  edit: Modifica
+  editing_post: "Messaggi #{number} in {discussion}"
+  email: Email
+  email_confirmation_required: "Devi confermare la tua email prima di entrare. Ti abbiamo inviato un email di conferma a {email}. Se non la ricevi controlla per piacere la cartella dello Spam."
+  exit_full_screen: Esci dallo schermo intero
+  forgot_password: Password dimenticata
+  forgot_password_help: Enter your email address and we will send you a link to reset your password.
+  forgot_password_link: Password dimenticata?
+  full_screen: Tutto schermo
+  go_to: "Vai a {location}"
+  group_admin: Amministratore
+  group_admins: Amministratori
+  group_guest: Ospite
+  group_guests: Osptiti
+  group_member: Iscritto
+  group_members: Iscritti
+  group_mod: Moderatore
+  group_mods: Moderatori
+  invalid_login: I dati di accesso erano errati.
+  joined: "Iscritto {ago}"
+  joined_the_forum: Iscritto al forum
+  load_more: Carica altro
+  log_in: Entra
+  log_in_to_reply: Entra per rispondere
+  log_out: Esci
+  mark_all_as_read: Marca tutto come letto
+  mark_as_read: Marca come letto
+  minimize: Minimizza
+  no_notifications: No notifiche
+  notifications: Notifiche
+  notify_discussion_renamed: Qualcuno ha rinominato una discussione
+  now: Ora
+  online: Online
+  original_post: Messaggio originale
+  password: Password
+  password_reset_email_sent: Ti abbiamo inviato un email contenente il link per reimpostare la password. Controlla la cartella dello Spam se non la ricevi nei prossimi minuti.
+  period_later: "{period} dopo"
+  post_discussion: Inserisci discussione
+  post_edited: "{username} modificato {ago}"
+  post_number: "Messaggio #{number}"
+  post_reply: Inserisci risposta
+  posted_a_reply: Risposta inserita
+  posts: Messaggi
+  powered_by_flarum: Powered by Flarum
+  privacy: Privacy
+  profile: Profilo
+  prompt_rename_discussion: Inserisci un nuovo titolo per questa discussione:
+  recover_password: Recupera Password
+  refresh: Aggiorna
+  remove: Rimuovi
+  rename: Renomina
+  reply: Rispondi
+  reply_posted: La tua risposta è stata inseirita.
+  restore: Ripristina
+  save_changes: Salva cambiamenti
+  search_all_discussions: 'Cerca tutte le discussioni per "{query}"'
+  search_forum: Cerca Forum
+  send_password_reset_email: Invia Email per reimpostare Password
+  settings: Impostazioni
+  sign_up: Registrati
+  sort_latest: Ultime
+  sort_newest: Nuove
+  sort_oldest: Vecchie
+  sort_relevance: Rilevanza
+  sort_top: Top
+  start_a_discussion: Inizia discussione
+  started_a_discussion: Discussione iniziata
+  unread_posts: "{count} non letto"
+  upload: Carica
+  username: Nome utente
+  username_or_email: Nome utente o Email
+  users: Utenti
+  view: Vedi
+  viewing_posts:
+    one: "{index} di {count} messaggio"
+    other: "{index} di {count} messaggi"
+  welcome_user: "Benvenuto, {username}!"
+  write_a_post: Scrivi un Mesaggio...
+  write_a_reply: Scrivi risposta...
